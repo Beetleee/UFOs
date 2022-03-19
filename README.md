@@ -5,7 +5,7 @@
 ## PROJECT OVERVIEW:
 I am tasked to provide filters for an HTML page which is being generated which will allow the user to select for specific information, pulled from a javascript data file.  This project will facilitate the user to be able to extract specific sighting data on timeframe, location, and shape of sighting from reports on UFOs from a master database.  The plan is to link a plan (app.js) to a database (data.js) with html (index.html) and css (style.css).
 ## Results
-###HTML Page
+### Interactive HTML Page
 ![](https://github.com/Beetleee/UFOs/blob/main/images/D1_1.png)
 #### Deliverable 1a: The list element that creates the button is removed, and there are five list elements for filtering in the index.html file.
 ![](https://github.com/Beetleee/UFOs/blob/main/images/D1_2.png)
